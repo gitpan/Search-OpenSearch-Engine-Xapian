@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Search-OpenSearch-Engine-Xapian
-version:            0.02
+version:            0.03
 abstract:           Xapian engine for OpenSearch results
 author:
     - Peter Karman <karman@cpan.org>
